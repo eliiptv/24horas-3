@@ -1,77 +1,77 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="24h classicos hanna barbera" tvg-logo="" group-title="Canais 24 Horas",24h classicos hanna barbera
-http://streamtv.com.br:80/malek/malek/20186
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20186
 #EXTINF:-1 tvg-id="" tvg-name="4H animazoo" tvg-logo="" group-title="Canais 24 Horas",4H animazoo
-http://streamtv.com.br:80/malek/malek/20226
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20226
 #EXTINF:-1 tvg-id="" tvg-name="apenas um show" tvg-logo="" group-title="Canais 24 Horas",apenas um show
-http://streamtv.com.br:80/malek/malek/20183
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20183
 #EXTINF:-1 tvg-id="" tvg-name="as terriveis aventuras de billy e mandy" tvg-logo="" group-title="Canais 24 Horas",as terriveis aventuras de billy e mandy
-http://streamtv.com.br:80/malek/malek/20192
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20192
 #EXTINF:-1 tvg-id="" tvg-name="as trapalhadas de flapjack" tvg-logo="" group-title="Canais 24 Horas",as trapalhadas de flapjack
-http://streamtv.com.br:80/malek/malek/20196
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20196
 #EXTINF:-1 tvg-id="" tvg-name="ben 10 for" tvg-logo="" group-title="Canais 24 Horas",ben 10 for
-http://streamtv.com.br:80/malek/malek/20176
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20176
 #EXTINF:-1 tvg-id="" tvg-name="big bang theory" tvg-logo="" group-title="Canais 24 Horas",big bang theory
-http://streamtv.com.br:80/malek/malek/20224
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20224
 #EXTINF:-1 tvg-id="" tvg-name="chaves animado" tvg-logo="" group-title="Canais 24 Horas",chaves animado
-http://streamtv.com.br:80/malek/malek/20181
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20181
 #EXTINF:-1 tvg-id="" tvg-name="coragem o cao covarde" tvg-logo="" group-title="Canais 24 Horas",coragem o cao covarde
-http://streamtv.com.br:80/malek/malek/20223
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20223
 #EXTINF:-1 tvg-id="" tvg-name="digimon classico" tvg-logo="" group-title="Canais 24 Horas",digimon classico
-http://streamtv.com.br:80/malek/malek/20222
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20222
 #EXTINF:-1 tvg-id="" tvg-name="dois homens e meio" tvg-logo="" group-title="Canais 24 Horas",dois homens e meio
-http://streamtv.com.br:80/malek/malek/20214
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20214
 #EXTINF:-1 tvg-id="" tvg-name="esquadr" tvg-logo="" group-title="Canais 24 Horas",esquadr
-http://streamtv.com.br:80/malek/malek/20182
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20182
 #EXTINF:-1 tvg-id="" tvg-name="hora de aventura" tvg-logo="" group-title="Canais 24 Horas",hora de aventura
-http://streamtv.com.br:80/malek/malek/20219
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20219
 #EXTINF:-1 tvg-id="" tvg-name="irmao do jorel" tvg-logo="" group-title="Canais 24 Horas",irmao do jorel
-http://streamtv.com.br:80/malek/malek/20203
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20203
 #EXTINF:-1 tvg-id="" tvg-name="jake e os piratas da terra do nunca" tvg-logo="" group-title="Canais 24 Horas",jake e os piratas da terra do nunca
-http://streamtv.com.br:80/malek/malek/20200
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20200
 #EXTINF:-1 tvg-id="" tvg-name="kidsplay" tvg-logo="" group-title="Canais 24 Horas",kidsplay
-http://streamtv.com.br:80/malek/malek/20218
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20218
 #EXTINF:-1 tvg-id="" tvg-name="lego unigata" tvg-logo="" group-title="Canais 24 Horas",lego unigata
-http://streamtv.com.br:80/malek/malek/20207
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20207
 #EXTINF:-1 tvg-id="" tvg-name="luluzinha" tvg-logo="" group-title="Canais 24 Horas",luluzinha
-http://streamtv.com.br:80/malek/malek/20178
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20178
 #EXTINF:-1 tvg-id="" tvg-name="masha e o urso" tvg-logo="" group-title="Canais 24 Horas",masha e o urso
-http://streamtv.com.br:80/malek/malek/20202
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20202
 #EXTINF:-1 tvg-id="" tvg-name="molang & piupiu" tvg-logo="" group-title="Canais 24 Horas",molang & piupiu
-http://streamtv.com.br:80/malek/malek/20185
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20185
 #EXTINF:-1 tvg-id="" tvg-name="novo Ducktales" tvg-logo="" group-title="Canais 24 Horas",novo Ducktales
-http://streamtv.com.br:80/malek/malek/20221
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20221
 #EXTINF:-1 tvg-id="" tvg-name="o incrivel mundo de gumbal" tvg-logo="" group-title="Canais 24 Horas",o incrivel mundo de gumbal
-http://streamtv.com.br:80/malek/malek/20220
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20220
 #EXTINF:-1 tvg-id="" tvg-name="o show da luna" tvg-logo="" group-title="Canais 24 Horas",o show da luna
-http://streamtv.com.br:80/malek/malek/20194
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20194
 #EXTINF:-1 tvg-id="" tvg-name="o show do looney tunes" tvg-logo="" group-title="Canais 24 Horas",o show do looney tunes
-http://streamtv.com.br:80/malek/malek/20199
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20199
 #EXTINF:-1 tvg-id="" tvg-name="os jovens titas em a" tvg-logo="" group-title="Canais 24 Horas",os jovens titas em a
-http://streamtv.com.br:80/malek/malek/20209
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20209
 #EXTINF:-1 tvg-id="" tvg-name="padrinhos magicos" tvg-logo="" group-title="Canais 24 Horas",padrinhos magicos
-http://streamtv.com.br:80/malek/malek/20197
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20197
 #EXTINF:-1 tvg-id="" tvg-name="paradise P.D" tvg-logo="" group-title="Canais 24 Horas",paradise P.D
-http://streamtv.com.br:80/malek/malek/20217
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20217
 #EXTINF:-1 tvg-id="" tvg-name="patrulha canina" tvg-logo="" group-title="Canais 24 Horas",patrulha canina
-http://streamtv.com.br:80/malek/malek/20184
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20184
 #EXTINF:-1 tvg-id="" tvg-name="peppa pig" tvg-logo="" group-title="Canais 24 Horas",peppa pig
-http://streamtv.com.br:80/malek/malek/20189
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20189
 #EXTINF:-1 tvg-id="" tvg-name="pj masks" tvg-logo="" group-title="Canais 24 Horas",pj masks
-http://streamtv.com.br:80/malek/malek/20177
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20177
 #EXTINF:-1 tvg-id="" tvg-name="pokemon" tvg-logo="" group-title="Canais 24 Horas",pokemon
-http://streamtv.com.br:80/malek/malek/20216
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20216
 #EXTINF:-1 tvg-id="" tvg-name="ricky and morty" tvg-logo="" group-title="Canais 24 Horas",ricky and morty
-http://streamtv.com.br:80/malek/malek/20215
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20215
 #EXTINF:-1 tvg-id="" tvg-name="tico e teco e os defensores da lei" tvg-logo="" group-title="Canais 24 Horas",tico e teco e os defensores da lei
-http://streamtv.com.br:80/malek/malek/20190
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20190
 #EXTINF:-1 tvg-id="" tvg-name="titio av" tvg-logo="" group-title="Canais 24 Horas",titio av
-http://streamtv.com.br:80/malek/malek/20204
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20204
 #EXTINF:-1 tvg-id="" tvg-name="Turma da monica 1" tvg-logo="" group-title="Canais 24 Horas",Turma da monica 1
-http://streamtv.com.br:80/malek/malek/20205
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20205
 #EXTINF:-1 tvg-id="" tvg-name="turma da monica 2" tvg-logo="" group-title="Canais 24 Horas",turma da monica 2
-http://streamtv.com.br:80/malek/malek/20210
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20210
 #EXTINF:-1 tvg-id="" tvg-name="ursos sem curso" tvg-logo="" group-title="Canais 24 Horas",ursos sem curso
-http://streamtv.com.br:80/malek/malek/20225
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20225
 #EXTINF:-1 tvg-id="" tvg-name="vera e o reino do arco iris" tvg-logo="" group-title="Canais 24 Horas",vera e o reino do arco iris
-http://streamtv.com.br:80/malek/malek/20213
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20213
