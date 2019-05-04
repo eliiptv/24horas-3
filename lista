@@ -1,77 +1,131 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24h classicos hanna barbera" tvg-logo="" group-title="Canais 24 Horas",24h classicos hanna barbera
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20186
-#EXTINF:-1 tvg-id="" tvg-name="4H animazoo" tvg-logo="" group-title="Canais 24 Horas",4H animazoo
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20226
-#EXTINF:-1 tvg-id="" tvg-name="apenas um show" tvg-logo="" group-title="Canais 24 Horas",apenas um show
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20183
-#EXTINF:-1 tvg-id="" tvg-name="as terriveis aventuras de billy e mandy" tvg-logo="" group-title="Canais 24 Horas",as terriveis aventuras de billy e mandy
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20192
-#EXTINF:-1 tvg-id="" tvg-name="as trapalhadas de flapjack" tvg-logo="" group-title="Canais 24 Horas",as trapalhadas de flapjack
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20196
-#EXTINF:-1 tvg-id="" tvg-name="ben 10 for" tvg-logo="" group-title="Canais 24 Horas",ben 10 for
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20176
-#EXTINF:-1 tvg-id="" tvg-name="big bang theory" tvg-logo="" group-title="Canais 24 Horas",big bang theory
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20224
-#EXTINF:-1 tvg-id="" tvg-name="chaves animado" tvg-logo="" group-title="Canais 24 Horas",chaves animado
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20181
-#EXTINF:-1 tvg-id="" tvg-name="coragem o cao covarde" tvg-logo="" group-title="Canais 24 Horas",coragem o cao covarde
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20223
-#EXTINF:-1 tvg-id="" tvg-name="digimon classico" tvg-logo="" group-title="Canais 24 Horas",digimon classico
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20222
-#EXTINF:-1 tvg-id="" tvg-name="dois homens e meio" tvg-logo="" group-title="Canais 24 Horas",dois homens e meio
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20214
-#EXTINF:-1 tvg-id="" tvg-name="esquadr" tvg-logo="" group-title="Canais 24 Horas",esquadr
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20182
-#EXTINF:-1 tvg-id="" tvg-name="hora de aventura" tvg-logo="" group-title="Canais 24 Horas",hora de aventura
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20219
-#EXTINF:-1 tvg-id="" tvg-name="irmao do jorel" tvg-logo="" group-title="Canais 24 Horas",irmao do jorel
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20203
-#EXTINF:-1 tvg-id="" tvg-name="jake e os piratas da terra do nunca" tvg-logo="" group-title="Canais 24 Horas",jake e os piratas da terra do nunca
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20200
-#EXTINF:-1 tvg-id="" tvg-name="kidsplay" tvg-logo="" group-title="Canais 24 Horas",kidsplay
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20218
-#EXTINF:-1 tvg-id="" tvg-name="lego unigata" tvg-logo="" group-title="Canais 24 Horas",lego unigata
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20207
-#EXTINF:-1 tvg-id="" tvg-name="luluzinha" tvg-logo="" group-title="Canais 24 Horas",luluzinha
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20178
-#EXTINF:-1 tvg-id="" tvg-name="masha e o urso" tvg-logo="" group-title="Canais 24 Horas",masha e o urso
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20202
-#EXTINF:-1 tvg-id="" tvg-name="molang & piupiu" tvg-logo="" group-title="Canais 24 Horas",molang & piupiu
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20185
-#EXTINF:-1 tvg-id="" tvg-name="novo Ducktales" tvg-logo="" group-title="Canais 24 Horas",novo Ducktales
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20221
-#EXTINF:-1 tvg-id="" tvg-name="o incrivel mundo de gumbal" tvg-logo="" group-title="Canais 24 Horas",o incrivel mundo de gumbal
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20220
-#EXTINF:-1 tvg-id="" tvg-name="o show da luna" tvg-logo="" group-title="Canais 24 Horas",o show da luna
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20194
-#EXTINF:-1 tvg-id="" tvg-name="o show do looney tunes" tvg-logo="" group-title="Canais 24 Horas",o show do looney tunes
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20199
-#EXTINF:-1 tvg-id="" tvg-name="os jovens titas em a" tvg-logo="" group-title="Canais 24 Horas",os jovens titas em a
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20209
-#EXTINF:-1 tvg-id="" tvg-name="padrinhos magicos" tvg-logo="" group-title="Canais 24 Horas",padrinhos magicos
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20197
-#EXTINF:-1 tvg-id="" tvg-name="paradise P.D" tvg-logo="" group-title="Canais 24 Horas",paradise P.D
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20217
-#EXTINF:-1 tvg-id="" tvg-name="patrulha canina" tvg-logo="" group-title="Canais 24 Horas",patrulha canina
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20184
-#EXTINF:-1 tvg-id="" tvg-name="peppa pig" tvg-logo="" group-title="Canais 24 Horas",peppa pig
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20189
-#EXTINF:-1 tvg-id="" tvg-name="pj masks" tvg-logo="" group-title="Canais 24 Horas",pj masks
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20177
-#EXTINF:-1 tvg-id="" tvg-name="pokemon" tvg-logo="" group-title="Canais 24 Horas",pokemon
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20216
-#EXTINF:-1 tvg-id="" tvg-name="ricky and morty" tvg-logo="" group-title="Canais 24 Horas",ricky and morty
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20215
-#EXTINF:-1 tvg-id="" tvg-name="tico e teco e os defensores da lei" tvg-logo="" group-title="Canais 24 Horas",tico e teco e os defensores da lei
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20190
-#EXTINF:-1 tvg-id="" tvg-name="titio av" tvg-logo="" group-title="Canais 24 Horas",titio av
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20204
-#EXTINF:-1 tvg-id="" tvg-name="Turma da monica 1" tvg-logo="" group-title="Canais 24 Horas",Turma da monica 1
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20205
-#EXTINF:-1 tvg-id="" tvg-name="turma da monica 2" tvg-logo="" group-title="Canais 24 Horas",turma da monica 2
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20210
-#EXTINF:-1 tvg-id="" tvg-name="ursos sem curso" tvg-logo="" group-title="Canais 24 Horas",ursos sem curso
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20225
-#EXTINF:-1 tvg-id="" tvg-name="vera e o reino do arco iris" tvg-logo="" group-title="Canais 24 Horas",vera e o reino do arco iris
-plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/20213
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",3 Palavrinhas 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18982
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa 24Hrs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/PanteraCorRosa.jpg/200px-PanteraCorRosa.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",A Pantera Cor de Rosa 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/12470
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin 24hrs" tvg-logo="https://4.bp.blogspot.com/-aDcTE4RS4j4/WyJ8_YOI0KI/AAAAAAAAMes/QwzKoIBxlf4HMm-_ZX4LcZgZFWLsZQyqwCLcBGAs/s1600/Aladdin%2Bdownload%2Btorrent%2Bdesenho%2Banimado%2Bcompleto.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Aladdin 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19136
+#EXTINF:-1 tvg-id="" tvg-name="AMIGAOZAO 24HRS*" tvg-logo="https://img.elo7.com.br/product/original/176C54C/painel-3d-festa-meu-amigaozao-01-painel-festa.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",AMIGAOZAO 24HRS*
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/12464
+#EXTINF:-1 tvg-id="" tvg-name="Bita 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Bita 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19139
+#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom 24Hrs" tvg-logo="http://qol.s3.amazonaws.com/products/51031-35b39130b1f85c1ca51fd7272721f31e.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Bob Zoom 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/12465
+#EXTINF:-1 tvg-id="" tvg-name="Rede Super (WebPlay)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3b/Logo_da_Rede_Super.png/150px-Logo_da_Rede_Super.png" group-title="CANAIS RELIGIOSOS",Rede Super (WebPlay)
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/25452
+#EXTINF:-1 tvg-id="" tvg-name="Sítio Do Picapau Amarelo Desenho 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Sítio Do Picapau Amarelo Desenho 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19168
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 24Hrs" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac9c7797d5661a4981950d7257c2ff39.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Chaves 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18990
+#EXTINF:-1 tvg-id="" tvg-name="Irmão do Jorel 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Irmão do Jorel 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19151
+#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cao Covarde 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Coragem o Cao Covarde 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18984
+#EXTINF:-1 tvg-id="" tvg-name="BARBE LAGO DO CINE 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",BARBE LAGO DO CINE 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24952
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",SCOOBY DOO 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24945
+#EXTINF:-1 tvg-id="" tvg-name="Steve Universe 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Steve Universe 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24934
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SHOCK 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",SUPER SHOCK 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24941
+#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",TARTARUGAS NINJAS 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24954
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/25016
+#EXTINF:-1 tvg-id="" tvg-name="TESOURO DA DISNEY 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",TESOURO DA DISNEY 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24950
+#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",THUNDERCATS 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24940
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E TUMBA 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",TIMAO E TUMBA 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24947
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia O cris 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Todo Mundo Odeia O cris 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24955
+#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",UM MALUCO NO PEDACO 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24948
+#EXTINF:-1 tvg-id="" tvg-name="Ursinhos carinhosos 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Ursinhos carinhosos 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24931
+#EXTINF:-1 tvg-id="" tvg-name="CAVALHEIROS DO ZODIACOS 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",CAVALHEIROS DO ZODIACOS 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24938
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24 Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",HOMEM ARANHA 24 Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24942
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24 Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",OS FLINTSTONES 24 Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24943
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSON 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",OS SIMPSON 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24944
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA  24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",PERNALONGA  24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24949
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",RAMBO 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24953
+#EXTINF:-1 tvg-id="" tvg-name="MASCARA 24 Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",MASCARA 24 Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24939
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Caverna do Dragão 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24936
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Dragon Ball Z 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18958
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Recreio 24hrs" tvg-logo="https://http2.mlstatic.com/dvds-kissyfurhora-do-recreio-entre-outros-D_NQ_NP_455601-MLB20363403665_072015-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",A Hora do Recreio 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19167
+#EXTINF:-1 tvg-id="" tvg-name="Escolinha do Professor Raimundo 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Escolinha do Professor Raimundo 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19137
+#EXTINF:-1 tvg-id="" tvg-name="Denis o pimentinha 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Denis o pimentinha 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24930
+#EXTINF:-1 tvg-id="" tvg-name="Digimon 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Digimon 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24933
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",DOIS HOMENS E MEIO 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24937
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",DRAGON BALL SUPER 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24951
+#EXTINF:-1 tvg-id="" tvg-name="FEITICEIRA 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",FEITICEIRA 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/24946
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e As Crianças 24Hrs" tvg-logo="https://imagem.natelinha.uol.com.br/grande/euapatroaeascriancascla_7f8323dd7aa670f0c8715c55e4e94279ce957e1a.jpeg" group-title="CANAIS ESPECIAIS 24 HORAS",Eu a Patroa e As Crianças 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19142
+#EXTINF:-1 tvg-id="" tvg-name="FAMILIA URSO 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",FAMILIA URSO 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19147
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24HRS" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/306762/1119576-4-optimized.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Galinha Pintadinha 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18963
+#EXTINF:-1 tvg-id="" tvg-name="Gasparzinho 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Gasparzinho 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19130
+#EXTINF:-1 tvg-id="" tvg-name="He Man 24Hrs" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81U0djZ8g9L.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",He Man 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/12468
+#EXTINF:-1 tvg-id="" tvg-name="Moranguinho 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Moranguinho 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19080
+#EXTINF:-1 tvg-id="" tvg-name="LOONEY TONES 24Hrs" tvg-logo="https://http2.mlstatic.com/dvds-looney-tunes-a-hora-acme-300-capitulos-dublado-D_NQ_NP_13860-MLB4572704415_062013-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",LOONEY TONES 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/12471
+#EXTINF:-1 tvg-id="" tvg-name="Chaves em Desenho 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Chaves em Desenho 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19079
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 24Hrs" tvg-logo="https://images-submarino.b2w.io/produtos/01/00/sku/32458/7/32458758_2SZ.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Naruto Shippuden 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18960
+#EXTINF:-1 tvg-id="" tvg-name="O Inspetor 24hrs" tvg-logo="https://i.ytimg.com/vi/3t4UYV-tIbY/hqdefault.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",O Inspetor 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19156
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",X-Men Evolution 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18974
+#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos 24Hrs" tvg-logo="https://legiaodomarcio.files.wordpress.com/2008/09/lateral_padrinhos_magicos.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Os Padrinhos Mágicos 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/12472
+#EXTINF:-1 tvg-id="" tvg-name="Patati Patata 24Hrs" tvg-logo="https://lh3.googleusercontent.com/-kNDYFTJFcS0/V8hZn_0hoFI/AAAAAAAAFv8/nrZVvCb13uk/s640/blogger-image--657739895.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Patati Patata 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19125
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Peppa Pig 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18993
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau 24hrs" tvg-logo="https://http2.mlstatic.com/display-pica-pau-1-peca-D_NQ_NP_301801-MLB20409084970_092015-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Pica Pau 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18965
+#EXTINF:-1 tvg-id="" tvg-name="PJ Masks 24Hrs" tvg-logo="http://papelarrozkantinhodobolo.com.br/wp-content/uploads/2018/08/04.jpeg" group-title="CANAIS ESPECIAIS 24 HORAS",PJ Masks 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/12469
+#EXTINF:-1 tvg-id="" tvg-name="Pocoyo 24hrs" tvg-logo="https://2.bp.blogspot.com/-riz3tXSF5nA/V2vvMH5WkjI/AAAAAAAADWE/RNNlz60ePDkf0nVYmvAYbYAk2nqiu6wTwCLcB/s1600/PD00063.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Pocoyo 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19162
+#EXTINF:-1 tvg-id="" tvg-name="Popeye 24Hrs" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hLOspSPKL._RI_SX200_.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Popeye 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/12467
+#EXTINF:-1 tvg-id="" tvg-name="Show da Luna 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Show da Luna 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18978
+#EXTINF:-1 tvg-id="" tvg-name="South Park 24HRS" tvg-logo="http://mcnradio.al/wp-content/uploads/2016/04/south-park.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",South Park 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18966
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia O Chris 24Hrs" tvg-logo="https://http2.mlstatic.com/todo-mundo-odeia-o-chris-todos-episodios-no-pendrive-32-gb-D_NQ_NP_870877-MLB26534244923_122017-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Todo Mundo Odeia O Chris 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18999
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry 24hrs" tvg-logo="https://http2.mlstatic.com/tom-e-jerry-painel-para-festas-lona-banner-aniversario-D_NQ_NP_363001-MLB20257422085_032015-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Tom & Jerry 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19143
+#EXTINF:-1 tvg-id="" tvg-name="Vale dos Dinossauros 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Vale dos Dinossauros 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19129
+#EXTINF:-1 tvg-id="" tvg-name="Wile e Coyote 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Wile e Coyote 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/18996
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 24hrs" tvg-logo="https://http2.mlstatic.com/desenho-x-men-evolution-04-serie-completa-52-episodios-D_NQ_NP_396601-MLB20374451235_082015-O.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",X-Men 24hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19175
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Yu Yu Hakusho 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/Debora/Debora/19146
