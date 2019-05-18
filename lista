@@ -1,131 +1,118 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",3 Palavrinhas 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18982
-#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor de Rosa 24Hrs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/16/PanteraCorRosa.jpg/200px-PanteraCorRosa.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",A Pantera Cor de Rosa 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/12470
 #EXTINF:-1 tvg-id="" tvg-name="Aladdin 24hrs" tvg-logo="https://4.bp.blogspot.com/-aDcTE4RS4j4/WyJ8_YOI0KI/AAAAAAAAMes/QwzKoIBxlf4HMm-_ZX4LcZgZFWLsZQyqwCLcBGAs/s1600/Aladdin%2Bdownload%2Btorrent%2Bdesenho%2Banimado%2Bcompleto.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Aladdin 24hrs
 plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19136
-#EXTINF:-1 tvg-id="" tvg-name="AMIGAOZAO 24HRS*" tvg-logo="https://img.elo7.com.br/product/original/176C54C/painel-3d-festa-meu-amigaozao-01-painel-festa.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",AMIGAOZAO 24HRS*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/12464
-#EXTINF:-1 tvg-id="" tvg-name="Bita 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Bita 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19139
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom 24Hrs" tvg-logo="http://qol.s3.amazonaws.com/products/51031-35b39130b1f85c1ca51fd7272721f31e.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Bob Zoom 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/12465
 #EXTINF:-1 tvg-id="" tvg-name="Rede Super (WebPlay)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/3b/Logo_da_Rede_Super.png/150px-Logo_da_Rede_Super.png" group-title="CANAIS RELIGIOSOS",Rede Super (WebPlay)
 plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/25452
-#EXTINF:-1 tvg-id="" tvg-name="Sítio Do Picapau Amarelo Desenho 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Sítio Do Picapau Amarelo Desenho 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19168
-#EXTINF:-1 tvg-id="" tvg-name="Chaves 24Hrs" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac9c7797d5661a4981950d7257c2ff39.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Chaves 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18990
-#EXTINF:-1 tvg-id="" tvg-name="Irmão do Jorel 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Irmão do Jorel 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19151
-#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cao Covarde 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Coragem o Cao Covarde 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18984
-#EXTINF:-1 tvg-id="" tvg-name="BARBE LAGO DO CINE 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",BARBE LAGO DO CINE 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24952
-#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",SCOOBY DOO 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24945
-#EXTINF:-1 tvg-id="" tvg-name="Steve Universe 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Steve Universe 24Hrs
+#EXTINF:-1 tvg-id="" tvg-name="Steve Universe 24Hrs" tvg-logo="https://i.pinimg.com/originals/0b/73/11/0b7311ac0aa2eb0f79c8d132b95cf9bc.png" group-title="CANAIS ESPECIAIS 24 HORAS",Steve Universe 24Hrs
 plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24934
-#EXTINF:-1 tvg-id="" tvg-name="SUPER SHOCK 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",SUPER SHOCK 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24941
-#EXTINF:-1 tvg-id="" tvg-name="TARTARUGAS NINJAS 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",TARTARUGAS NINJAS 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24954
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE/HBO",TELECINE TOUCH FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/25016
-#EXTINF:-1 tvg-id="" tvg-name="TESOURO DA DISNEY 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",TESOURO DA DISNEY 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24950
-#EXTINF:-1 tvg-id="" tvg-name="THUNDERCATS 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",THUNDERCATS 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24940
-#EXTINF:-1 tvg-id="" tvg-name="TIMAO E TUMBA 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",TIMAO E TUMBA 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24947
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia O cris 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Todo Mundo Odeia O cris 24Hrs
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia O cris 24Hrs" tvg-logo="http://3.bp.blogspot.com/-86mlteRcEzU/VhVK9OgXMxI/AAAAAAAABGU/15mxvk4cFcc/s1600/flow1.1.PNG" group-title="CANAIS ESPECIAIS 24 HORAS",Todo Mundo Odeia O cris 24Hrs
 plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24955
-#EXTINF:-1 tvg-id="" tvg-name="UM MALUCO NO PEDACO 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",UM MALUCO NO PEDACO 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24948
-#EXTINF:-1 tvg-id="" tvg-name="Ursinhos carinhosos 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Ursinhos carinhosos 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24931
-#EXTINF:-1 tvg-id="" tvg-name="CAVALHEIROS DO ZODIACOS 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",CAVALHEIROS DO ZODIACOS 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24938
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 24 Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",HOMEM ARANHA 24 Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24942
-#EXTINF:-1 tvg-id="" tvg-name="OS FLINTSTONES 24 Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",OS FLINTSTONES 24 Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24943
-#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSON 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",OS SIMPSON 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24944
-#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA  24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",PERNALONGA  24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24949
-#EXTINF:-1 tvg-id="" tvg-name="RAMBO 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",RAMBO 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24953
-#EXTINF:-1 tvg-id="" tvg-name="MASCARA 24 Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",MASCARA 24 Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24939
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Caverna do Dragão 24Hrs
+#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão 24Hrs" tvg-logo="http://2.bp.blogspot.com/-jqOINQqZfE0/VmYfa2TKFBI/AAAAAAAABFs/nUp9Y23WkaE/s1600/montagem-03-pre.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Caverna do Dragão 24Hrs
 plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24936
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Dragon Ball Z 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18958
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Recreio 24hrs" tvg-logo="https://http2.mlstatic.com/dvds-kissyfurhora-do-recreio-entre-outros-D_NQ_NP_455601-MLB20363403665_072015-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",A Hora do Recreio 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19167
-#EXTINF:-1 tvg-id="" tvg-name="Escolinha do Professor Raimundo 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Escolinha do Professor Raimundo 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19137
-#EXTINF:-1 tvg-id="" tvg-name="Denis o pimentinha 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Denis o pimentinha 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24930
-#EXTINF:-1 tvg-id="" tvg-name="Digimon 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Digimon 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24933
-#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",DOIS HOMENS E MEIO 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24937
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",DRAGON BALL SUPER 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24951
-#EXTINF:-1 tvg-id="" tvg-name="FEITICEIRA 24Hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",FEITICEIRA 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/24946
-#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e As Crianças 24Hrs" tvg-logo="https://imagem.natelinha.uol.com.br/grande/euapatroaeascriancascla_7f8323dd7aa670f0c8715c55e4e94279ce957e1a.jpeg" group-title="CANAIS ESPECIAIS 24 HORAS",Eu a Patroa e As Crianças 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19142
-#EXTINF:-1 tvg-id="" tvg-name="FAMILIA URSO 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",FAMILIA URSO 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19147
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24HRS" tvg-logo="https://dg31sz3gwrwan.cloudfront.net/poster/306762/1119576-4-optimized.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Galinha Pintadinha 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18963
-#EXTINF:-1 tvg-id="" tvg-name="Gasparzinho 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Gasparzinho 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19130
-#EXTINF:-1 tvg-id="" tvg-name="He Man 24Hrs" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81U0djZ8g9L.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",He Man 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/12468
-#EXTINF:-1 tvg-id="" tvg-name="Moranguinho 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Moranguinho 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19080
-#EXTINF:-1 tvg-id="" tvg-name="LOONEY TONES 24Hrs" tvg-logo="https://http2.mlstatic.com/dvds-looney-tunes-a-hora-acme-300-capitulos-dublado-D_NQ_NP_13860-MLB4572704415_062013-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",LOONEY TONES 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/12471
-#EXTINF:-1 tvg-id="" tvg-name="Chaves em Desenho 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Chaves em Desenho 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19079
-#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 24Hrs" tvg-logo="https://images-submarino.b2w.io/produtos/01/00/sku/32458/7/32458758_2SZ.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Naruto Shippuden 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18960
-#EXTINF:-1 tvg-id="" tvg-name="O Inspetor 24hrs" tvg-logo="https://i.ytimg.com/vi/3t4UYV-tIbY/hqdefault.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",O Inspetor 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19156
-#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",X-Men Evolution 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18974
-#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Mágicos 24Hrs" tvg-logo="https://legiaodomarcio.files.wordpress.com/2008/09/lateral_padrinhos_magicos.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Os Padrinhos Mágicos 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/12472
-#EXTINF:-1 tvg-id="" tvg-name="Patati Patata 24Hrs" tvg-logo="https://lh3.googleusercontent.com/-kNDYFTJFcS0/V8hZn_0hoFI/AAAAAAAAFv8/nrZVvCb13uk/s640/blogger-image--657739895.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Patati Patata 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19125
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Peppa Pig 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18993
-#EXTINF:-1 tvg-id="" tvg-name="Pica Pau 24hrs" tvg-logo="https://http2.mlstatic.com/display-pica-pau-1-peca-D_NQ_NP_301801-MLB20409084970_092015-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Pica Pau 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18965
-#EXTINF:-1 tvg-id="" tvg-name="PJ Masks 24Hrs" tvg-logo="http://papelarrozkantinhodobolo.com.br/wp-content/uploads/2018/08/04.jpeg" group-title="CANAIS ESPECIAIS 24 HORAS",PJ Masks 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/12469
+#EXTINF:-1 tvg-id="" tvg-name="a Patroa e as Crianças 24hs" tvg-logo="http://www.tvhistoria.com.br/images/upload/091216-euapatroasegredos-imagem01.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",a Patroa e as Crianças 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30013
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN 24HS" tvg-logo="https://publicitariababy.files.wordpress.com/2007/01/al1.png" group-title="CANAIS ESPECIAIS 24 HORAS",ALADIN 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30059
+#EXTINF:-1 tvg-id="" tvg-name="As Meninas Superpoderosas 24hs" tvg-logo="https://2.bp.blogspot.com/-wf1Kzft88xI/V6uJnlHOlOI/AAAAAAAAM5s/i8wPLjVTHmkUJao08QQFDoUU6_UwotobgCLcB/s320/docinho-lindinha-florzinha-As%2BMeninas%2BSuper%2BPoderosas%2B%25282%2529.png" group-title="CANAIS ESPECIAIS 24 HORAS",As Meninas Superpoderosas 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30058
+#EXTINF:-1 tvg-id="" tvg-name="As tartarugas ninjas 24hs" tvg-logo="https://2.bp.blogspot.com/-I2lNMQ8HJys/V5q2E10NQfI/AAAAAAAALso/zWCKJR6r7XgDXD9JJ-zs2yK6jWGVBxD9ACLcB/s1600/b.png" group-title="CANAIS ESPECIAIS 24 HORAS",As tartarugas ninjas 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30057
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 24HS" tvg-logo="https://i.ytimg.com/vi/82CZ7r_yQCU/maxresdefault.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Ben 10 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30055
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA 24HS" tvg-logo="http://s.glbimg.com/jo/g1/f/original/2011/09/12/hhspongebob-study_fran.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",BOB ESPONJA 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30056
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES 24HS" tvg-logo="https://i1.wp.com/forumchaves.com.br/site/wp-content/uploads/2013/01/chaves-300x225.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",CHAVES 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30054
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO 24HS" tvg-logo="https://http2.mlstatic.com/painel-lona-fosca-chaves-desenho-animado-07-200-x-150-D_NQ_NP_857786-MLB26679286514_012018-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",CHAVES DESENHO 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30053
+#EXTINF:-1 tvg-id="" tvg-name="Coragem o Cao Covarde 24HRS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/coragem-png-4.png" group-title="CANAIS ESPECIAIS 24 HORAS",Coragem o Cao Covarde 24HRS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30051
+#EXTINF:-1 tvg-id="" tvg-name="Denis o pimentinha 24hs" tvg-logo="https://images.uncyc.org/pt/thumb/2/26/Dennis-o-Pimentinha.jpg/300px-Dennis-o-Pimentinha.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Denis o pimentinha 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30050
+#EXTINF:-1 tvg-id="" tvg-name="Digimon 24hs" tvg-logo="http://www.pngmart.com/files/4/Digimon-PNG-Clipart.png" group-title="CANAIS ESPECIAIS 24 HORAS",Digimon 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30049
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24hs" tvg-logo="http://1.bp.blogspot.com/-86Q-fInVoAI/TecJBuUZ4hI/AAAAAAAAGCk/hhXoiSLMNhI/s1600/Two+And+a+Half+Men.png" group-title="CANAIS ESPECIAIS 24 HORAS",Dois Homens e Meio 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30048
+#EXTINF:-1 tvg-id="" tvg-name="Doug 24hs" tvg-logo="https://www.pngkey.com/png/detail/351-3513906_happy-doug-doug-on-nickelodeon.png" group-title="CANAIS ESPECIAIS 24 HORAS",Doug 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30008
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 24hs" tvg-logo="http://www.pngmart.com/files/3/Dragon-Ball-Super-Transparent-Background.png" group-title="CANAIS ESPECIAIS 24 HORAS",Dragon Ball Super 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30015
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z 24hs" tvg-logo="https://i.pinimg.com/originals/ee/73/74/ee7374c97f06124d1b88182feb81bb8c.png" group-title="CANAIS ESPECIAIS 24 HORAS",Dragon Ball Z 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30047
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24hs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Galinha_Pintadinha.png" group-title="CANAIS ESPECIAIS 24 HORAS",Galinha Pintadinha 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30046
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon 24hs" tvg-logo="http://crawler.mdcgate.com/iptv/logo/8213.png" group-title="CANAIS ESPECIAIS 24 HORAS",Gospel Cartoon 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30045
+#EXTINF:-1 tvg-id="" tvg-name="He-Man 24hs" tvg-logo="https://banner2.kisspng.com/20180712/wxe/kisspng-he-man-skeletor-battle-cat-teela-orko-beastman-he-man-5b4732b993a7e2.0383343215313926976048.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",He-Man 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30044
+#EXTINF:-1 tvg-id="" tvg-name="Historias da disney 24hs" tvg-logo="https://umpotedesonhos.files.wordpress.com/2014/02/untitled.png" group-title="CANAIS ESPECIAIS 24 HORAS",Historias da disney 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30043
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 24hs" tvg-logo="https://2.bp.blogspot.com/-H6Pk7EgkU3A/V5E7RLh1kMI/AAAAAAAALMc/GAcjfuObEJwJf-lXYjEm1md0SV8ZQO2UwCLcB/s1600/B1462523741834.png" group-title="CANAIS ESPECIAIS 24 HORAS",Homem-Aranha 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30042
+#EXTINF:-1 tvg-id="" tvg-name="Jack-Chan 24hs" tvg-logo="http://www.pngmart.com/files/8/Jackie-Chan-PNG-Image-Free-Download.png" group-title="CANAIS ESPECIAIS 24 HORAS",Jack-Chan 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30011
+#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24hs" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/jaspion-png-4.png" group-title="CANAIS ESPECIAIS 24 HORAS",Jaspion 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30041
+#EXTINF:-1 tvg-id="" tvg-name="Jiraya 24hs" tvg-logo="https://i.pinimg.com/originals/e9/9f/7c/e99f7ce58adfd6be41dcb7e58b1866c5.png" group-title="CANAIS ESPECIAIS 24 HORAS",Jiraya 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30040
+#EXTINF:-1 tvg-id="" tvg-name="Kenan e Kel 24hs" tvg-logo="https://media.fstatic.com/l05az2LvVdAIsua8XgH2w9haelI=/fit-in/290x478/smart/media/movies/covers/2016/11/Sem_t%C3%ADtulo_3iubjUB.png" group-title="CANAIS ESPECIAIS 24 HORAS",Kenan e Kel 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30003
+#EXTINF:-1 tvg-id="" tvg-name="MEDABOTS 24HS" tvg-logo="https://banner2.kisspng.com/20180724/wib/kisspng-metabee-sumilidon-character-blakbeetle-medabots-5b57649e6d4a24.0934052515324540464477.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",MEDABOTS 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30039
+#EXTINF:-1 tvg-id="" tvg-name="Mib homens de preto 24hs" tvg-logo="http://i1.r7.com/data/files/2C92/94A3/2819/B44E/0128/20E0/C51F/49E0/mib3.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Mib homens de preto 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30006
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/61/Naruto-logo-shippuuden.png" group-title="CANAIS ESPECIAIS 24 HORAS",NARUTO 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30038
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuuden 24hs" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/naruto-shippuden-logo.png" group-title="CANAIS ESPECIAIS 24 HORAS",Naruto Shippuuden 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30037
+#EXTINF:-1 tvg-id="" tvg-name="O Fantástico Mundo de Bobby 24hs" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/31/Bobbys_world.jpg/250px-Bobbys_world.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",O Fantástico Mundo de Bobby 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30007
+#EXTINF:-1 tvg-id="" tvg-name="O INSPETOR 24HS" tvg-logo="https://gallery.kissclipart.com/20180920/jse/kissclipart-inspetor-jacques-clouseau-png-clipart-inspector-cl-753ef8ff80c05ff2.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",O INSPETOR 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30036
+#EXTINF:-1 tvg-id="" tvg-name="O Máskara 24hs" tvg-logo="https://absolutamentelendarios.files.wordpress.com/2016/02/tumblr_m6z485upeo1qbbw9to1_1341972051_cover-png.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",O Máskara 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30035
+#EXTINF:-1 tvg-id="" tvg-name="Os Anjinhos -Rugrats 24hs" tvg-logo="http://1.bp.blogspot.com/-Vuq0CtFxFeE/VBQ6RH3sNVI/AAAAAAAAARo/5-qDPcOAA88/s1600/i7hCTJAp0pOne.png" group-title="CANAIS ESPECIAIS 24 HORAS",Os Anjinhos -Rugrats 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30034
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodiaco 24hs" tvg-logo="https://78.media.tumblr.com/87c9fe945f0d040e98e3e989b4cd23c4/tumblr_p5lpj5Rjbd1uln9dno1_1280.png" group-title="CANAIS ESPECIAIS 24 HORAS",Os Cavaleiros do Zodiaco 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30033
+#EXTINF:-1 tvg-id="" tvg-name="Os Flintstones 24HS" tvg-logo="https://3.bp.blogspot.com/-6i2shEIgkGI/VvvbS1t0jBI/AAAAAAAA9C8/lYNjSBzHgucFlrdE5irhSoz0YZ7w6S_8w/s320/Os%2Bflintstones%2B%2Bem%2Bpng%2Be%2Bgifs%2B%25285%2529.png" group-title="CANAIS ESPECIAIS 24 HORAS",Os Flintstones 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30032
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24HS" tvg-logo="http://3.bp.blogspot.com/-kveDSQmD8cQ/T9eDTr8KgtI/AAAAAAAAFi4/_UsgWGl_ZkU/s1600/Os-Simpsons-PNG-Queroimagem.com.png" group-title="CANAIS ESPECIAIS 24 HORAS",Os Simpsons 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30031
+#EXTINF:-1 tvg-id="" tvg-name="Os Ursinhos Carinhosos 24HS" tvg-logo="https://4.bp.blogspot.com/-F-QOyhfLj60/V5q6bZFaCgI/AAAAAAAALtY/sUF0YT0q61UaM-5Hz1m4wXcjVfk5BiU7gCLcB/s640/CB32.png" group-title="CANAIS ESPECIAIS 24 HORAS",Os Ursinhos Carinhosos 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30018
+#EXTINF:-1 tvg-id="" tvg-name="Papa-Léguas 24Hrs" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/papa-l%C3%A9guas-correndo-png-2.png" group-title="CANAIS ESPECIAIS 24 HORAS",Papa-Léguas 24Hrs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30012
+#EXTINF:-1 tvg-id="" tvg-name="Pernalonga 24hs" tvg-logo="https://4.bp.blogspot.com/-cAY6C8x9UvA/TxDO15g7NaI/AAAAAAAABMc/jjknBPOOBOI/s1600/Pernalonga3.png" group-title="CANAIS ESPECIAIS 24 HORAS",Pernalonga 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30030
+#EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24hs" tvg-logo="https://s3.amazonaws.com/peoplepng/wp-content/uploads/2018/08/03141126/Phineas-And-Ferb-PNG-Transparent-Image.png" group-title="CANAIS ESPECIAIS 24 HORAS",Phineas e Ferb 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30029
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU 24HS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Woody_Woodpecker.png" group-title="CANAIS ESPECIAIS 24 HORAS",PICA PAU 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30028
+#EXTINF:-1 tvg-id="" tvg-name="Pink e Cerebro 24hs" tvg-logo="https://4.bp.blogspot.com/-TfgdxssjqV0/U9ERBheMC1I/AAAAAAABhwM/xzwDIZCCpxs/s1600/60.png" group-title="CANAIS ESPECIAIS 24 HORAS",Pink e Cerebro 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30005
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON 24HS" tvg-logo="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/pokemon-png-logo.png" group-title="CANAIS ESPECIAIS 24 HORAS",POKEMON 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30010
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO 24hs" tvg-logo="http://pngimg.com/uploads/rambo/rambo_PNG32.png" group-title="CANAIS ESPECIAIS 24 HORAS",RAMBO 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30027
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY DOO 24hs" tvg-logo="https://4.bp.blogspot.com/-h9jKcKesYyw/V5qirUjfUTI/AAAAAAAALrE/19n6G22K-HkKJ6JFD7ZWBCdp3sclJJ3agCLcB/s1600/QF1nJLU.png" group-title="CANAIS ESPECIAIS 24 HORAS",SCOOBY DOO 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30026
+#EXTINF:-1 tvg-id="" tvg-name="South Park 24hs" tvg-logo="http://southparkstudios.mtvnimages.com/shared/characters/groups/the-boys.png" group-title="CANAIS ESPECIAIS 24 HORAS",South Park 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30025
+#EXTINF:-1 tvg-id="" tvg-name="Tesouros da disney 24hs" tvg-logo="http://1.bp.blogspot.com/-2mKSGpL62UA/VTAuy29LDkI/AAAAAAAAEEQ/Tbf2hGny-jo/s1600/Capa-tesouro-Bluray.png" group-title="CANAIS ESPECIAIS 24 HORAS",Tesouros da disney 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30023
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats 24hs" tvg-logo="https://www.freepnglogos.com/uploads/thundercats-png-logo/thundercats-movies-png-logo-17.png" group-title="CANAIS ESPECIAIS 24 HORAS",Thundercats 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30014
+#EXTINF:-1 tvg-id="" tvg-name="Timão e Pumba 24hs" tvg-logo="https://img2.gratispng.com/20180408/cww/kisspng-youtube-timon-and-pumbaa-simba-zazu-the-lion-king-5ac9a9f1ed16e6.5989686215231656819711.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Timão e Pumba 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30022
+#EXTINF:-1 tvg-id="" tvg-name="Tom&Jerry 24hs" tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="CANAIS ESPECIAIS 24 HORAS",Tom&Jerry 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30020
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaco 24HS" tvg-logo="http://4.bp.blogspot.com/--KLAo8t1Fow/UUpT89okX-I/AAAAAAAAQfg/bvnFQYFDto0/s640/Um+Maluco+No+Pedaco.png" group-title="CANAIS ESPECIAIS 24 HORAS",Um Maluco No Pedaco 24HS
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30019
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 24hs" tvg-logo="https://www.pngarts.com/files/2/X-Men-PNG-Download-Image.png" group-title="CANAIS ESPECIAIS 24 HORAS",X-Men 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30017
+#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho 24hs" tvg-logo="https://www.lojadoanime.com/image/cache/catalog/marcas/Yu-Yu-Hakusho-600x315.png" group-title="CANAIS ESPECIAIS 24 HORAS",Yu Yu Hakusho 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30009
+#EXTINF:-1 tvg-id="" tvg-name="YU-GI-OH 24hs" tvg-logo="https://banner2.kisspng.com/20180809/hek/kisspng-yu-gi-oh-trading-card-game-magic-the-gathering-c-boardwalk-clipart-team-game-2541521-5b6c40d0dcf101.280358201533821136905.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",YU-GI-OH 24hs
+plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/30016
 #EXTINF:-1 tvg-id="" tvg-name="Pocoyo 24hrs" tvg-logo="https://2.bp.blogspot.com/-riz3tXSF5nA/V2vvMH5WkjI/AAAAAAAADWE/RNNlz60ePDkf0nVYmvAYbYAk2nqiu6wTwCLcB/s1600/PD00063.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Pocoyo 24hrs
 plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19162
-#EXTINF:-1 tvg-id="" tvg-name="Popeye 24Hrs" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71hLOspSPKL._RI_SX200_.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Popeye 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/12467
-#EXTINF:-1 tvg-id="" tvg-name="Show da Luna 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Show da Luna 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18978
-#EXTINF:-1 tvg-id="" tvg-name="South Park 24HRS" tvg-logo="http://mcnradio.al/wp-content/uploads/2016/04/south-park.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",South Park 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18966
-#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia O Chris 24Hrs" tvg-logo="https://http2.mlstatic.com/todo-mundo-odeia-o-chris-todos-episodios-no-pendrive-32-gb-D_NQ_NP_870877-MLB26534244923_122017-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Todo Mundo Odeia O Chris 24Hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18999
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry 24hrs" tvg-logo="https://http2.mlstatic.com/tom-e-jerry-painel-para-festas-lona-banner-aniversario-D_NQ_NP_363001-MLB20257422085_032015-F.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",Tom & Jerry 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19143
-#EXTINF:-1 tvg-id="" tvg-name="Vale dos Dinossauros 24hrs" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Vale dos Dinossauros 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19129
-#EXTINF:-1 tvg-id="" tvg-name="Wile e Coyote 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Wile e Coyote 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/18996
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 24hrs" tvg-logo="https://http2.mlstatic.com/desenho-x-men-evolution-04-serie-completa-52-episodios-D_NQ_NP_396601-MLB20374451235_082015-O.jpg" group-title="CANAIS ESPECIAIS 24 HORAS",X-Men 24hrs
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19175
-#EXTINF:-1 tvg-id="" tvg-name="Yu Yu Hakusho 24HRS" tvg-logo="" group-title="CANAIS ESPECIAIS 24 HORAS",Yu Yu Hakusho 24HRS
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/0987/0987/19146
